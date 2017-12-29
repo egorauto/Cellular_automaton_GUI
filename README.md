@@ -13,3 +13,5 @@ conda install numpy
 conda install -c anaconda tk 
 ```
 * The files have to be in the same directory
+### Usage
+* Run the GUI.py file and then follow the GUI instructions
